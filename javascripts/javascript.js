@@ -4,10 +4,14 @@ $('.button').hover(function() {
 	$(this).css('background-color', '#00aced');
 });
 
-$('.button').click(function(){
+
+$('.button').click(function() {
 	$(this).css('background-color', 'maroon');
 
-	$('p').toggleClass('emphasis');
-})
+});
 
+$('.button').click(function() {
+	$(this).html('<span class="glyphicon glyphicon-leaf"></span> Nice Click!');
+	
+});
 
