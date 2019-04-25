@@ -1,0 +1,175 @@
+.jumbotron {
+	background-color: #00aced;
+	color:white;
+	margin-top:0px;
+	margin-bottom:0px;
+	box-shadow: 1px 1px 1px darkgray;
+
+
+}
+
+
+
+
+.button_space_left {
+	margin-left:30px;
+	margin-bottom:0px;
+}
+
+.button {
+  background-color: #00aced;
+  border: none;
+  color: white;
+  margin-top:10px;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius:10%;
+}
+
+
+
+
+
+
+}
+
+
+.float_button_right {
+	float: right;
+}
+
+img  {
+	width:30px; 
+	height:30px;
+	border-radius:15%;
+	padding:0px;
+	margin:0px;
+}
+
+.view_profile {
+	color:grey;
+	float:bottom;
+	margin-top:0px;
+	margin-bottom:0px;
+	padding-top:0px;
+}
+
+.mason_peacock {
+	float:top;
+	margin-bottom:0px;
+	margin-top:0px;
+	font-size:14px;
+	font-family:arial;
+	padding-bottom:0px;
+
+}
+
+.lists {
+	color:grey;
+
+}
+
+.help {
+	color:grey;
+
+
+}
+
+
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+  text-align:center;
+  position:fixed;
+  top:0;
+  width:100%;
+  margin-bottom:0px;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #555;
+  color: #f1f1f1;
+  text-align: center;
+
+  }
+
+
+
+ }
+
+ .paragraph_style {
+ 	font-family:comic sans ms; 
+ 	font-size:14px;
+
+ 	
+ }
+
+
+
+ .column_div {
+ 	column-count:3;
+ 	column-gap:7%;
+ 	column-rule-style: none;
+ 	background-color:#f1f1f1;
+ 	color:#555;
+ 	font-family:cursive;
+ 	font-size:15px;
+ 	margin-left:7%;
+ 	margin-right:7%;
+ 	margin-top: 7%;
+ 	padding: 7%;
+
+
+ }
+
+
+ .backdrop_column {
+ 	column-count:1;
+ 	column-rule-style: none;
+ 	background-color: #f1f1f1;
+ 	margin-top:90px;
+ 	font-family:trebuchet ms;
+ 	font-size:12px;
+ 	margin-right:0px;
+ 	margin-left:0px;
+ 	margin-bottom: 0%;
+ 	text-align: left;
+ 	padding-left:10%;
+ 	padding-right:75%;
+ 	padding-bottom: 100%;
+ 	display:inline-block;
+
+ }
+
+
+ .activity_page {
+ 	column-count:3;
+ 	column-rule-style:none;
+ 	background-color:white;
+
+ }
+
+ 
+
+
+
+ a:hover {
+ 	background-color:#00aced;
+ }
+
+
+
+
+
+
+
+
